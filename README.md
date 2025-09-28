@@ -1,6 +1,7 @@
 # 🍪 Cookie Website  
 
-Hello There, this is my first ever multipage website that i only created using html and css. I will keep learning and keep getting better at my work. This is just the first step i made towards my journey. Thank you for being the part of it.
+Hello There, this is my first ever multipage website that i created using only html and css. I will keep learning and keep getting better at my work. This is just the first step i made towards my journey. Thank you for being the part of it.
+
 ---
 
 ## 🚀 Features  
