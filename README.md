@@ -1,7 +1,6 @@
 # 🍪 Cookie Website  
 
-A delightful cookie website built to spread happiness, one cookie at a time. This project showcases a modern, responsive design with smooth navigation and a warm, inviting theme — just like the fresh-baked cookies it represents.  
-
+Hello There, this is my first ever multipage website that i only created using html and css. I will keep learning and keep getting better at my work. This is just the first step i made towards my journey. Thank you for being the part of it.
 ---
 
 ## 🚀 Features  
