@@ -34,3 +34,15 @@ cookie-website/
 ├── css/
 │   └── style.css     # Main stylesheet
 └── images/           # Cookie images & assets
+
+## 👤 Author  
+
+**Muhammad Faizan**  
+
+- 🌍 GitHub: [MuhammadFaizan-1](https://github.com/MuhammadFaizan-1)  
+- 💼 LinkedIn: *[www.linkedin.com/in/muhammad-faizan-992b86320]*  
+- ✉️ Email: *[muhammadfaizan20505@gmail.com]*  
+
+---
+
+✨ *Learning every day. Practicing every day. Building a future in web development.*  
