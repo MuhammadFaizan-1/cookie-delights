@@ -6,11 +6,10 @@ Hello There, this is my first ever multipage website that i created using only h
 
 ## 🚀 Features  
 
-- **Responsive Design** – Works perfectly on desktop, tablet, and mobile.  
-- **Modern UI/UX** – Clean layout with attractive visuals and easy navigation.  
-- **About Us Page** – Tells the sweet story behind the cookies.  
-- **Order Now Button** – Seamlessly links to the ordering page.  
-- **Custom Styling** – Rounded images, hover effects, and professional typography.  
+
+- Clean and simple layout  
+- Responsive design for desktop and mobile  
+- Basic navigation between pages (Home, About, Order)
 
 ---
 
@@ -34,6 +33,7 @@ cookie-website/
 ├── css/
 │   └── style.css     # Main stylesheet
 └── images/           # Cookie images & assets
+```
 
 ## 👤 Author  
 
